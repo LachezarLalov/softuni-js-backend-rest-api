@@ -17,3 +17,4 @@
 - [x] Initialize project and add .gitignore
 - [x] Install and setup express `npm i express`
 - [x] Add cors to API
+- [x] Add furniture controller
