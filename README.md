@@ -8,3 +8,11 @@
 - [x] Add gitignore in client folder
 
 ## Startup client
+
+- [x] Install vite `npm i -D vite`
+- [x] Setup Vite
+
+## Setup REST API
+
+- [x] Initialize project and add .gitignore
+- [ ] Install and setup express `npm i express`
