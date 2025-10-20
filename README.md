@@ -22,3 +22,4 @@
 ## Authentication and Authorization
 
 -    [x] Create auth controller
+-    [x] Register user

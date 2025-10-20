@@ -1,10 +1,9 @@
-import { Router } from `express`
-
+import { Router } from 'express';
 
 const userController = Router();
 
-userController.post('/register', (req, res) =>{
-res.end()
+userController.post('/register', (req, res) => {
+     res.end();
 });
 
-export default  userController;
+export default userController;
