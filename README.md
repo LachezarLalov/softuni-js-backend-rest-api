@@ -22,4 +22,5 @@
 ## Authentication and Authorization
 
 -    [x] Create auth controller
+-    [x] Add json parser
 -    [x] Register user
