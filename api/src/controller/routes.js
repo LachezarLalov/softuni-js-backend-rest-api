@@ -4,6 +4,7 @@ import furnitureController from './furnitureController.js';
 
 const routes = Router();
 
+routes.use('/user', userController);
 routes.use('/data/catalog', furnitureController);
 
-export default routes;
+export default route·o;
